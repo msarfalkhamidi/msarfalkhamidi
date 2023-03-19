@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msarfalkhamidi
-- 👀 I’m interested in web development and python programming
-- 🌱 I’m currently learning basic programming
+- 👀 I’m interested in python programming and data science
+- 🌱 I’m currently studying in Universitas Negeri Yogyakarta
 - 📫 How to reach me? You can send an e-mail to msarfal.2020@student.uny.ac.id 
 
 <!---
